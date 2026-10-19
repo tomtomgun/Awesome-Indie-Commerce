@@ -74,6 +74,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Solidus](https://github.com/solidusio/solidus)**  
   Open-source Ruby on Rails e-commerce platform forked from Spree. Highly customizable for digital goods and creator needs.
 
+- **[Stall](https://github.com/bloriner/stall)**
+Open-source storefront kit exposing any catalog to AI agents via MCP; stdlib-only Python, self-hostable, 1% hosted cut.
+
 ### Additional Strong Open-Source Options
 
 - **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** — Full-featured PHP platform with excellent digital product modules.
